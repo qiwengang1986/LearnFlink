@@ -1,0 +1,7 @@
+Marz,./home,1000
+Alic,./cart,2000
+Bob,./prod?id=100,3000
+Marz,./home,4000
+Bob,./home,5000
+Bob,./home,6000
+Marz,./home,7000
